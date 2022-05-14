@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LucyenePinheiro
 - 👀 I’m interested in Web Development//Front-End//Java//CyberSecurity
 - 🌱 I’m currently learning C and Front-End techniques
-- 💞️ I’m looking to collaborate on Myself XD
+- 💞️ I’m looking to collaborate with Myself XD
 - 📫 How to reach me ...
 
 <!---
